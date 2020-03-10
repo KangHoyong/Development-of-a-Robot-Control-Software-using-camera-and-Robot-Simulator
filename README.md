@@ -19,5 +19,11 @@
   - [calJacobian](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator/blob/master/심화프로젝트2/로봇시뮬레이터를%20이용한%20로봇%20제어%20프로그램/영상을%20이용한%20로봇제어/ClientTestDlg.cpp#L16)
   - [Jacobian 이용한 각 조인트 각도 ](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator/blob/master/심화프로젝트2/로봇시뮬레이터를%20이용한%20로봇%20제어%20프로그램/영상을%20이용한%20로봇제어/ClientTestDlg.cpp#L650)
   
+### 프로젝트 1 결과 보고서 
+[프로젝트1 결과 보고서](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator/blob/master/심화프로젝트1/C프로젝트1Part실습결과물.pdf)
+
+### 프로젝트 2 결과 보고서 
+[프로젝트2 결과 보고서](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator/blob/master/심화프로젝트2/C프로젝트심화프로젝트(카메라를%20활용한%20로봇%20시뮬레이션)보고서_강호용.pdf)
+  
 ### 라이센스 
 2019년도 대구 로봇산업 혁신아케디미사업 지원에 의한 프로젝트 
