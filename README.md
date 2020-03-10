@@ -16,3 +16,6 @@
 ### [로봇팔 구조] 역기구학 자코비안 구동 데이터 계산 로봇 시뮬레이션 (델포이를 이용한 시뮬레이션)
   - [calJacobian](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator/blob/master/심화프로젝트2/로봇시뮬레이터를%20이용한%20로봇%20제어%20프로그램/영상을%20이용한%20로봇제어/ClientTestDlg.cpp#L16)
   - [Jacobian 이용한 각 조인트 각도 ](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator/blob/master/심화프로젝트2/로봇시뮬레이터를%20이용한%20로봇%20제어%20프로그램/영상을%20이용한%20로봇제어/ClientTestDlg.cpp#L650)
+  
+### 라이센스 
+2019년도 대구 로봇산업 혁신아케디미사업 지원에 의한 프로젝트 
