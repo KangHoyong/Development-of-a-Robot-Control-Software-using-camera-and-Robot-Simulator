@@ -26,4 +26,4 @@
 [프로젝트2 결과 보고서](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator/blob/master/심화프로젝트2/C프로젝트심화프로젝트(카메라를%20활용한%20로봇%20시뮬레이션)보고서_강호용.pdf)
   
 ### 라이센스 
-2019년도 대구 로봇산업 혁신아케디미사업 지원에 의한 프로젝트 
+2019년도 대구 로봇산업 혁신아케데미사업 지원에 의한 프로젝트 
